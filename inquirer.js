@@ -23,5 +23,5 @@ inquirer.prompt([{
 
         ])
     }
-    else(console.log("You chose to Bid on an item"));
+    else(console.log("You choose to Bid on an item"));
 });
